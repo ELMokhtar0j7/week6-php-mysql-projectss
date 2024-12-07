@@ -1,0 +1,32 @@
+.main{
+    margin-top: 20px;
+    box-shadow: 1px 1px 1px 1px silver;
+    width: 400px;
+    height: 420px;
+}
+label{
+    background-color: rgb(0, 183, 255);
+    padding: 3px;
+    margin-right: 10px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+input{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+}
+.submit{
+    margin-top: 60px;
+    font-weight: bold;
+    background-color: rgb(80, 176, 80);
+    
+    padding: 15px;
+    border-color: black;
+    
+}
+button{
+    background-color: orange;
+}
+img {
+    width: 100%;
+}
